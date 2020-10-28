@@ -1,6 +1,6 @@
 # Bibliography
 
-> Optimization-ML, See for more detail notes on [Reading_Notes](./Reading_Notes.md)
+> Reinforcement Learning, See for more detail notes on [Reading_Notes](./Reading_Notes.md)
 
 Contributed by Jingjing Chen, Meng Xu and Ping Guo.
 
