@@ -22,7 +22,7 @@ A sample
 - [Multi-Agent RL](#Multi-Agent-RL)
 - [Multi-Objective RL](#Multi-Objective-RL)
 
-## [RL](#Table-of-contents)
+## [Reinforcement Learning](#Table-of-contents)
 
 ### Survey
 
@@ -38,7 +38,7 @@ A sample
 
 ## 
 
-## [Multi Agent RL](#Table-of-contents)
+## [Multi Agent Reinforcement Learning](#Table-of-contents)
 
 ### Survey
 - [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114), Yu Zhang **`(2017)`**
@@ -50,7 +50,7 @@ A sample
 - **`Pareto MTL`** [Pareto Multi-Task Learning](https://arxiv.org/abs/1912.12854), Xi Lin **`(2019)`** **`[NeurIPS]`**
 - 
 
-## [Multi-Objective RL](#Table-of-contents)
+## [Multi-Objective Reinforcement Learning](#Table-of-contents)
 
 ### Survey
 
