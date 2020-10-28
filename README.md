@@ -19,8 +19,8 @@ A sample
 # Table of contents
 
 - [Reinforcement Learning](#RL)
-- [Multi-Agent RL](#Multi Agent RL)
-- [Multi-Objective RL](#Multi-Objective RL)
+- [Multi-Agent RL](#Multi-Agent-RL)
+- [Multi-Objective RL](#Multi-Objective-RL)
 
 ## [RL](#Table-of-contents)
 
