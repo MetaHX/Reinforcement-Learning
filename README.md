@@ -26,7 +26,7 @@ A sample
 
 ### Courses
 
-* **`Alessandro Lazaric`** http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course16.htmlAlessandro , Alessandro Lazaric 
+* **`Alessandro Lazaric`** [RL_Course](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course16.htmlAlessandro) , Alessandro Lazaric 
 *  
 
 ### Survey
