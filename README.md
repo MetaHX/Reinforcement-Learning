@@ -33,7 +33,7 @@
     - [***Lecture 2***: *Markov Decision Processes and Dynamic Programming*](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/slides-lecture-02-handout.pdf) ([Notes](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/notes-lecture-02.pdf))
     - [***Lecture 3***: *Reinforcement Learning Algorithms*](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/slides-lecture-03-handout.pdf) ([Notes](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/notes-lecture-03.pdf))
     - [***Lecture 4***: *The Multi-arm Bandit Problem*](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/slides-lecture-04.pdf) ([Notes](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/notes-lecture-04.pdf))
-    - [***Lecture 5***: *Approximate Dynamic Programming*](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/slides-lecture-05-handout.pdf) ([Notes](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/notes-lecture-04.pdf))
+    - [***Lecture 5***: *Approximate Dynamic Programming*](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/slides-lecture-05-handout.pdf) ([Notes](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/notes-lecture-05.pdf))
     - [***Lecture 6***: *Sample Complexity of ADP Algorithms*](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/slides-lecture-06-handout.pdf) ([Notes](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/notes-lecture-05.pdf))
 
   ### Survey
