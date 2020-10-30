@@ -24,6 +24,11 @@ A sample
 
 ## [Reinforcement Learning](#Table-of-contents)
 
+### Courses
+
+* **`Alessandro Lazaric`** http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course16.htmlAlessandro , Alessandro Lazaric 
+*  
+
 ### Survey
 
 - [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114), Yu Zhang **`(2017)`**
