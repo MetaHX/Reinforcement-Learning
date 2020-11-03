@@ -1,5 +1,5 @@
 
-- # Bibliography
+# Bibliography
 
   > Reinforcement Learning, see for more detail notes on [Reading_Notes](./Reading_Notes.md)
 
@@ -49,9 +49,9 @@
 
   ### Book
 
-  * [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html). **[`Csaba Szepesvári`]**  **[:date:`2010`]** [:file_folder:[File](Learning-Material/Algorithms-for-Reinforcement-Learning.pdf)]
-  * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html). **[`Richard S. Sutton et.al`]** **[:date:`2018-2020`]** [:file_folder:[File](Learning-Material/RLbook2020.pdf)] 
-  * [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/). **[`Alekh Agarwal et.al`]** **[:date:`2019-2020`]** [:file_folder:[File](Learning-Material/Reinforcement-Learning-Theory-and-Algorithm.pdf)] 
+  * [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html). **[`Csaba Szepesvári`]**  **[:date:`2010`]**
+  * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html). **[`Richard S. Sutton et.al`]** **[:date:`2018-2020`]**
+  * [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/). **[`Alekh Agarwal et.al`]** **[:date:`2019-2020`]** 
 
   ### Articles
 
@@ -77,18 +77,22 @@
 
   
 
-  - **`MTL`** [Multi-Task Learning as Multi-Objective Optimization](https://arxiv.org/abs/1810.04650), Ozan Sener **`(2018)`** **`[NeurIPS]`**
-  - **`Pareto MTL`** [Pareto Multi-Task Learning](https://arxiv.org/abs/1912.12854), Xi Lin **`(2019)`** **`[NeurIPS]`**
-
   ## [Multi Agent Reinforcement Learning](#Table-of-contents)
 
   ### Survey
 
+<<<<<<< HEAD
   - [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114), Yu Zhang **`(2017)`**
   - 
+=======
+  - 
+
+
+>>>>>>> 06180795d4d19b681741ceeb6e49ee09e2a2802a
 
   - 
 
+<<<<<<< HEAD
   ## Articles
 
   * [Mean Field Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1802.05438.pdf),[Wangjun](http://www0.cs.ucl.ac.uk/staff/jun.wang/) (2013)
@@ -99,3 +103,10 @@
   ### Survey
 
   - [A Survey of Multi-Objective Sequential Decision-Making](https://www.jair.org/index.php/jair/article/view/10836/25862), [**D. M. Roijers**](http://roijers.info/pub.html) **`(2013)`**
+=======
+  - 
+
+  ### Articles
+
+  - 
+>>>>>>> 06180795d4d19b681741ceeb6e49ee09e2a2802a
