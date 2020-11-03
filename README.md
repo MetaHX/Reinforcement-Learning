@@ -75,24 +75,16 @@
 
   ### (2) Theoretical results
 
-  
+* 
+* 
 
   ## [Multi Agent Reinforcement Learning](#Table-of-contents)
 
   ### Survey
 
-<<<<<<< HEAD
   - [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114), Yu Zhang **`(2017)`**
   - 
-=======
-  - 
 
-
->>>>>>> 06180795d4d19b681741ceeb6e49ee09e2a2802a
-
-  - 
-
-<<<<<<< HEAD
   ## Articles
 
   * [Mean Field Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1802.05438.pdf),[Wangjun](http://www0.cs.ucl.ac.uk/staff/jun.wang/) (2013)
@@ -102,11 +94,10 @@
 
   ### Survey
 
-  - [A Survey of Multi-Objective Sequential Decision-Making](https://www.jair.org/index.php/jair/article/view/10836/25862), [**D. M. Roijers**](http://roijers.info/pub.html) **`(2013)`**
-=======
+* A Survey of Multi-Objective Sequential Decision-Making](https://www.jair.org/index.php/jair/article/view/10836/25862), [**D. M. Roijers**](http://roijers.info/pub.html) **`(2013)`**
+
   - 
 
   ### Articles
 
   - 
->>>>>>> 06180795d4d19b681741ceeb6e49ee09e2a2802a
