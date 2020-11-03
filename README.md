@@ -45,17 +45,18 @@
   * [Finite-Sample Analysis of Least-Squares Policy Iteration](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/lazaric12a.pdf)
     * [Finite-Time Bounds for Fitted Value Iteration](https://jmlr.org/papers/volume9/munos08a/munos08a.pdf)
 
-  ### Book
 
-  * [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html). **[`Csaba Szepesvári`]**  **[:date:`2010`]**
-  * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html). **[`Richard S. Sutton et.al`]** **[:date:`2018-2020`]**
-  * [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/). **[`Alekh Agarwal et.al`]** **[:date:`2019-2020`]** 
+### Academic family tree
 
 > https://neurotree.org/neurotree/tree.php?pid=236&pnodecount=5&cnodecount=2
 
 ![](./img1.png)
 
+### Books
 
+- [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html). **[`Csaba Szepesvári`]**  **[:date:`2010`]**
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html). **[`Richard S. Sutton et.al`]** **[:date:`2018-2020`]**
+- [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/). **[`Alekh Agarwal et.al`]** **[:date:`2019-2020`]** 
 
   ### Articles
 
@@ -80,11 +81,14 @@
   ### (2) Theoretical results
 
 * 
+
 * 
 
-  ## [Multi Agent Reinforcement Learning](#Table-of-contents)
+  
+  
+  ## 
 
-
+## [Multi Agent Reinforcement Learning](#Table-of-contents)
 
   ### Survey
 
@@ -120,6 +124,8 @@
 
   - 
 
-  ### Articles
+  
 
-  - 
+### Articles
+
+- 
