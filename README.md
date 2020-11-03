@@ -51,9 +51,9 @@
   * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html). **[`Richard S. Sutton et.al`]** **[:date:`2018-2020`]**
   * [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/). **[`Alekh Agarwal et.al`]** **[:date:`2019-2020`]** 
 
+> https://neurotree.org/neurotree/tree.php?pid=236&pnodecount=5&cnodecount=2
 
-
-![1604396577461](C:\Users\jingjche2\AppData\Roaming\Typora\typora-user-images\1604396577461.png)
+![1604405590797](C:\Users\jingjche2\AppData\Roaming\Typora\typora-user-images\1604405590797.png)
 
 
 
