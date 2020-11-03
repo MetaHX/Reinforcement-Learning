@@ -58,35 +58,34 @@
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html). **[`Richard S. Sutton et.al`]** **[:date:`2018-2020`]**
 - [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/). **[`Alekh Agarwal et.al`]** **[:date:`2019-2020`]** 
 
-  ### Articles
 
-  ### (1) Algorithms
 
-  * [(TRPO)Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf),  [John Schulman](http://joschu.net/publications.html) ,[Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/) **`2015ICML`**
 
-    > Reading Notes
 
-  * [(PPO)Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)
+### Articles
 
-    > Reading Notes
+### (1) Algorithms
 
-  * [Continuous Control With Deep Reinforcement Learning](https://arxiv.org/pdf/1509.02971.pdf)
+- [(TRPO)Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf),  [John Schulman](http://joschu.net/publications.html) ,[Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/) **`2015ICML`**
 
-  * [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/pdf/1801.01290.pdf)
+  > Reading Notes
 
-    > Reading Notes
+- [(PPO)Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)
 
-  * 
+  > Reading Notes
 
-  ### (2) Theoretical results
+- [Continuous Control With Deep Reinforcement Learning](https://arxiv.org/pdf/1509.02971.pdf)
 
-* 
+- [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/pdf/1801.01290.pdf)
 
-* 
+  > Reading Notes
 
-  
-  
-  ## 
+- 
+
+### (2) Theoretical results
+
+- 
+- 
 
 ## [Multi Agent Reinforcement Learning](#Table-of-contents)
 
