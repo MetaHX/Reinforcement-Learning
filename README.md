@@ -29,19 +29,19 @@
 
   - **`Alessandro Lazaric`** [RL_Course](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14.html)
 - [***Lecture 0***: *Introduction to the Course*](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course16_files/slides-course-ext.pdf) ([Notes](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/notes-course.pdf))
-    
+  
 - [**Lecture 1**: *Introduction to Reinforcement Learning*](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/slides-lecture-01-handout.pdf) ([Notes](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/notes-lecture-01.pdf))
-    
+  
 - [***Lecture 2***: *Markov Decision Processes and Dynamic Programming*](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/slides-lecture-02-handout.pdf) ([Notes](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/notes-lecture-02.pdf))
-    
+  
 - [***Lecture 3***: *Reinforcement Learning Algorithms*](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/slides-lecture-03-handout.pdf) ([Notes](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/notes-lecture-03.pdf))
-    
+  
 - [***Lecture 4***: *The Multi-arm Bandit Problem*](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/slides-lecture-04.pdf) ([Notes](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/notes-lecture-04.pdf))
-    
+  
 - [***Lecture 5***: *Approximate Dynamic Programming*](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/slides-lecture-05-handout.pdf) ([Notes](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/notes-lecture-05.pdf))
-    
+  
 - [***Lecture 6***: *Sample Complexity of ADP Algorithms*](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/slides-lecture-06-handout.pdf) 
-    
+  
   * [Finite-Sample Analysis of Least-Squares Policy Iteration](http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14_files/lazaric12a.pdf)
     * [Finite-Time Bounds for Fitted Value Iteration](https://jmlr.org/papers/volume9/munos08a/munos08a.pdf)
 
@@ -53,7 +53,7 @@
 
 > https://neurotree.org/neurotree/tree.php?pid=236&pnodecount=5&cnodecount=2
 
-![1604405590797](C:\Users\jingjche2\AppData\Roaming\Typora\typora-user-images\1604405590797.png)
+![](./img1.png)
 
 
 
