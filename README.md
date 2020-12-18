@@ -50,7 +50,7 @@
 
 > https://neurotree.org/neurotree/tree.php?pid=236&pnodecount=5&cnodecount=2
 
-![](./img1.png)
+![](./tree.png)
 
 ### Books
 
@@ -66,11 +66,15 @@
 
 ### (1) Algorithms
 
+* [(REINFORCE)(Simple Statistical Gradient-Following Algorithms for
+  Connectionist Reinforcement Learning)](https://link.springer.com/content/pdf/10.1007/BF00992696.pdf) Williams **`1992Machine Learning`**
+
+
 - [(TRPO)Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf),  [John Schulman](http://joschu.net/publications.html) ,[Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/) **`2015ICML`**
 
-  > Reading Notes
+  > * 
 
-- [(PPO)Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)
+- [(PPO)Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf), [John Schulman](http://joschu.net/publications.html), [Filip Wolski](https://arxiv.org/search/cs?searchtype=author&query=Wolski%2C+F), [Prafulla Dhariwal](https://arxiv.org/search/cs?searchtype=author&query=Dhariwal%2C+P), [Alec Radford](https://arxiv.org/search/cs?searchtype=author&query=Radford%2C+A), [Oleg Klimov](https://arxiv.org/search/cs?searchtype=author&query=Klimov%2C+O),**`2017ARXIV`**
 
   > Reading Notes
 
@@ -97,7 +101,10 @@
 
 * 
 
+## Courses
 
+* [RLChina](https://rlchina.org/) ([Notes](https://github.com/jingjingchen018/Reinforcement-Learning/tree/master/2_RLChina))
+* [智能决策论坛](https://space.bilibili.com/551888585?from=search&seid=5033128382785833183)
 
   ## Articles
 
